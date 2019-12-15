@@ -1,4 +1,12 @@
 {
+  "name": "@lffg/contact-form-root",
+  "private": true,
+  "version": "0.0.0",
+  "description": "YouTube video series.",
+  "main": "google-script.js",
+  "repository": "git@github.com:lffg/youtube-react-google-spreadsheets.git",
+  "author": "Luiz Felipe Gonçalves <https://luizfelipe.dev>",
+  "license": "MIT",
   "devDependencies": {
     "@types/google-apps-script": "^1.0.7",
     "eslint": "^6.7.2",
