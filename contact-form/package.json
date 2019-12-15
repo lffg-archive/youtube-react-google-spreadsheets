@@ -17,7 +17,10 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": "react-app"
+    "extends": [
+      "lffg",
+      "lffg-react"
+    ]
   },
   "browserslist": {
     "production": [
@@ -30,5 +33,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-config-lffg-react": "^1.0.2"
   }
 }
