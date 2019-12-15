@@ -1,3 +1,4 @@
 {
-  "extends": "lffg"
+  "root": true,
+  "extends": ["lffg", "lffg-react"]
 }
